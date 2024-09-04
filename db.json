@@ -1,0 +1,90 @@
+{
+  "profesores": [
+    {
+      "nombre": "Juan",
+      "apellido": "Perez",
+      "edad": 35,
+      "materia": [
+        {
+          "nombre": "NodeJS desde Cero",
+          "descripcion": "NodeJS desde Cero para el 1er grado"
+        },
+        {
+          "nombre": "ReactJS desde Cero",
+          "descripcion": "ReactJS desde Cero para el 1er grado"
+        },
+        {
+          "nombre": "JavaScript desde Cero",
+          "descripcion": "JavaScript desde Cero para el 1er grado"
+        }
+      ],
+      "id": "6df7"
+    },
+    {
+      "nombre": "Maria",
+      "apellido": "Gomez",
+      "edad": 42,
+      "materia": [
+        {
+          "nombre": "NodeJS desde Cero",
+          "descripcion": "NodeJS desde Cero para el 1er grado"
+        },
+        {
+          "nombre": "JavaScript desde Cero",
+          "descripcion": "JavaScript desde Cero para el 1er grado"
+        }
+      ],
+      "id": "bdbb"
+    },
+    {
+      "id": "9c2c",
+      "nombre": "Fernado",
+      "apellido": "Glez",
+      "edad": 35,
+      "materia": [
+        {
+          "nombre": "ReactJS desde Cero",
+          "descripcion": "ReactJS desde Cero para el 1er grado"
+        },
+        {
+          "nombre": "JavaScript desde Cero",
+          "descripcion": "JavaScript desde Cero para el 1er grado"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Pedro",
+      "apellido": "Rodriguez",
+      "promedio": 8.2,
+      "id": "eb69"
+    },
+    {
+      "nombre": "Alfonsina",
+      "apellido": "Storni",
+      "promedio": 10,
+      "id": "1c46"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJS desde Cero",
+      "duracion": 7,
+      "dificultad": "Intermedio",
+      "id": "dc6f"
+    },
+    {
+      "nombre": "ReactJS desde Cero",
+      "duracion": 8,
+      "dificultad": "Intermedio",
+      "id": "29fd"
+    },
+    {
+      "nombre": "Angular 17 desde Cero",
+      "duracion": 8,
+      "dificultad": "Alta",
+      "id": "c495"
+    }
+  ]
+}
